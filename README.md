@@ -1,4 +1,5 @@
 Pricing Model for a Smartwatch Company
+
 Experience working as a Business Analyst in a Analytics Industry
 
 Problem Statement
